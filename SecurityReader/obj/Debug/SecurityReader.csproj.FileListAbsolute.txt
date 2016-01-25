@@ -1,0 +1,7 @@
+c:\users\saura_000\documents\visual studio 2015\Projects\FileWatcherService\SecurityReader\bin\Debug\SecurityReader.dll
+c:\users\saura_000\documents\visual studio 2015\Projects\FileWatcherService\SecurityReader\bin\Debug\SecurityReader.pdb
+c:\users\saura_000\documents\visual studio 2015\Projects\FileWatcherService\SecurityReader\obj\Debug\SecurityReader.dll
+c:\users\saura_000\documents\visual studio 2015\Projects\FileWatcherService\SecurityReader\obj\Debug\SecurityReader.pdb
+c:\users\saura_000\documents\visual studio 2015\Projects\FileWatcherService\SecurityReader\bin\Debug\SecurityMaster.dll
+c:\users\saura_000\documents\visual studio 2015\Projects\FileWatcherService\SecurityReader\bin\Debug\SecurityMaster.pdb
+C:\Users\saura_000\Documents\Visual Studio 2015\Projects\FileWatcherService\SecurityReader\obj\Debug\SecurityReader.csprojResolveAssemblyReference.cache

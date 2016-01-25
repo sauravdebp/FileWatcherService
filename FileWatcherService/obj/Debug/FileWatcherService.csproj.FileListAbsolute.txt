@@ -1,0 +1,6 @@
+c:\users\saura_000\documents\visual studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe.config
+c:\users\saura_000\documents\visual studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+c:\users\saura_000\documents\visual studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.pdb
+c:\users\saura_000\documents\visual studio 2015\Projects\FileWatcherService\FileWatcherService\obj\Debug\FileWatcherService.csprojResolveAssemblyReference.cache
+c:\users\saura_000\documents\visual studio 2015\Projects\FileWatcherService\FileWatcherService\obj\Debug\FileWatcherService.exe
+c:\users\saura_000\documents\visual studio 2015\Projects\FileWatcherService\FileWatcherService\obj\Debug\FileWatcherService.pdb
